@@ -1,6 +1,6 @@
 return {
 	mod_description = {
-		en = "prints a message in the chat when a key is picked up."
+		en = "prints a message in the chat when certain objects are picked up."
 	},
 	
 --[[
